@@ -11,7 +11,7 @@ A simple way of using Google Script with typescript based on minified CDN files.
 - `yarn build` will call the CLI to build the scripts;
   - You need to build one script at a time;
   - The CLI accepts an argument `-n or --name` to identify a script folder and build;
-  - Use `yarn build -help` to see more details.
+  - Use `yarn build --help` to see more details.
 - You can have multiple folders of scripts in `/src/scripts` and build each.
 
 ### Google Script
